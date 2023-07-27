@@ -1,0 +1,70 @@
+body {
+  font-family: "REM", Tahoma, Verdana, sans-serif;
+  color: white;
+  background-color: #1c1c1a;
+}
+section {
+  height: 100vh;
+}
+.top_bar {
+  overflow: hidden;
+  background-color: #1c1c1abc;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+nav {
+  float: right;
+}
+a.navig {
+  justify-content: space-between;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  padding-right: 20px;
+  text-align: center;
+}
+a.navig:hover,
+a.navig:active {
+  text-shadow: 0 0 3px #ff0000;
+}
+.intro {
+  font-size: 45px;
+  font-weight: 500;
+}
+
+.about {
+  font-weight: 300;
+}
+
+#about_head {
+  font-size: 45px;
+}
+
+.about_section {
+  font-size: 20px;
+}
+.about_section:hover {
+  text-shadow: 0 0 3px #ff0000;
+}
+.contact {
+  height: 200px;
+  font-weight: 300;
+}
+
+#about_head {
+  font-size: 45px;
+}
+
+.logo {
+  height: 35px;
+  padding: px;
+  border-radius: 5px;
+}
+.logo:hover {
+  box-shadow: 0 0 5px red;
+}
+
+p.logo {
+  border: 1px solid black;
+}
