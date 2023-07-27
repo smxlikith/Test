@@ -60,6 +60,8 @@ a.navig:active {
   height: 35px;
   padding: px;
   border-radius: 5px;
+}
+a {
   text-decoration: none;
 }
 .logo:hover {
