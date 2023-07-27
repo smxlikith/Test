@@ -60,6 +60,7 @@ a.navig:active {
   height: 35px;
   padding: px;
   border-radius: 5px;
+  text-decoration: none;
 }
 .logo:hover {
   box-shadow: 0 0 5px red;
